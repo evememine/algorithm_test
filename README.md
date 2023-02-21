@@ -1,3 +1,3 @@
-# language_study
+# algorithm_test
 
-studying several computer language
+studying several algorithm with python language. 
